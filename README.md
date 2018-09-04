@@ -22,6 +22,7 @@ rspec path/to/spec_file.rb
 * **Sebastian** - *Pair partner* - [sebgrebe](https://github.com/sebgrebe)
 * **Freya** - *Pair partner* - [fbl11](https://github.com/fbl11)
 * **Ruaridhi** - *Pair partner* - [Ruaridhi](https://github.com/Ruaridhi)
+* **Din Stolak** - *Pair partner* - [Din-s1](https://github.com/Din-s1)
 
 ## Acknowledgments
 
